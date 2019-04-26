@@ -1,0 +1,2 @@
+# one
+The goal of this project is to create an open source wildfire risk assessment tool for humans in high risk areas of the western US. Using Google API and GPX route mapping it would be useful to identify topographical features near a user and allow them to add location based observations. The app output would generate a map that allows a user to stitch together location based snapshots of an evolving wildfire..
